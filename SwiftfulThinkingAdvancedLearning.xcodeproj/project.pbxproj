@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BB1839B428EFB4B300850746 /* CustomCurvesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB1839B328EFB4B300850746 /* CustomCurvesBootcamp.swift */; };
+		BB1839B628EFBB1000850746 /* AnimateableDataBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB1839B528EFBB1000850746 /* AnimateableDataBootcamp.swift */; };
 		BB94BF6828EE053600CA93B3 /* SwiftfulThinkingAdvancedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB94BF6728EE053600CA93B3 /* SwiftfulThinkingAdvancedLearningApp.swift */; };
 		BB94BF6C28EE053800CA93B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB94BF6B28EE053800CA93B3 /* Assets.xcassets */; };
 		BB94BF6F28EE053800CA93B3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB94BF6E28EE053800CA93B3 /* Preview Assets.xcassets */; };
@@ -18,6 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BB1839B328EFB4B300850746 /* CustomCurvesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCurvesBootcamp.swift; sourceTree = "<group>"; };
+		BB1839B528EFBB1000850746 /* AnimateableDataBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimateableDataBootcamp.swift; sourceTree = "<group>"; };
 		BB94BF6428EE053600CA93B3 /* SwiftfulThinkingAdvancedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingAdvancedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB94BF6728EE053600CA93B3 /* SwiftfulThinkingAdvancedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingAdvancedLearningApp.swift; sourceTree = "<group>"; };
 		BB94BF6B28EE053800CA93B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -61,12 +65,14 @@
 			children = (
 				BB94BF7928EE16AD00CA93B3 /* AnyTransitionBootcamp.swift */,
 				BB94BF7728EE10E100CA93B3 /* ButtonStyleBootcamp.swift */,
+				BB1839B328EFB4B300850746 /* CustomCurvesBootcamp.swift */,
 				BB94BF7D28EF720E00CA93B3 /* CustomShapesBootcamp.swift */,
 				BB94BF7B28EE639C00CA93B3 /* MatchedGeometryEffectBootcamp.swift */,
 				BB94BF6728EE053600CA93B3 /* SwiftfulThinkingAdvancedLearningApp.swift */,
 				BB94BF7528EE056500CA93B3 /* ViewModifierBootcamp.swift */,
 				BB94BF6B28EE053800CA93B3 /* Assets.xcassets */,
 				BB94BF6D28EE053800CA93B3 /* Preview Content */,
+				BB1839B528EFBB1000850746 /* AnimateableDataBootcamp.swift */,
 			);
 			path = SwiftfulThinkingAdvancedLearning;
 			sourceTree = "<group>";
@@ -151,10 +157,12 @@
 			files = (
 				BB94BF7828EE10E100CA93B3 /* ButtonStyleBootcamp.swift in Sources */,
 				BB94BF7628EE056500CA93B3 /* ViewModifierBootcamp.swift in Sources */,
+				BB1839B628EFBB1000850746 /* AnimateableDataBootcamp.swift in Sources */,
 				BB94BF7A28EE16AD00CA93B3 /* AnyTransitionBootcamp.swift in Sources */,
 				BB94BF6828EE053600CA93B3 /* SwiftfulThinkingAdvancedLearningApp.swift in Sources */,
 				BB94BF7C28EE639C00CA93B3 /* MatchedGeometryEffectBootcamp.swift in Sources */,
 				BB94BF7E28EF720E00CA93B3 /* CustomShapesBootcamp.swift in Sources */,
+				BB1839B428EFB4B300850746 /* CustomCurvesBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
