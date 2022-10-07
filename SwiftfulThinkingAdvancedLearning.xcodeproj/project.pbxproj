@@ -8,17 +8,25 @@
 
 /* Begin PBXBuildFile section */
 		BB94BF6828EE053600CA93B3 /* SwiftfulThinkingAdvancedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB94BF6728EE053600CA93B3 /* SwiftfulThinkingAdvancedLearningApp.swift */; };
-		BB94BF6A28EE053600CA93B3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB94BF6928EE053600CA93B3 /* ContentView.swift */; };
 		BB94BF6C28EE053800CA93B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB94BF6B28EE053800CA93B3 /* Assets.xcassets */; };
 		BB94BF6F28EE053800CA93B3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB94BF6E28EE053800CA93B3 /* Preview Assets.xcassets */; };
+		BB94BF7628EE056500CA93B3 /* ViewModifierBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB94BF7528EE056500CA93B3 /* ViewModifierBootcamp.swift */; };
+		BB94BF7828EE10E100CA93B3 /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB94BF7728EE10E100CA93B3 /* ButtonStyleBootcamp.swift */; };
+		BB94BF7A28EE16AD00CA93B3 /* AnyTransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB94BF7928EE16AD00CA93B3 /* AnyTransitionBootcamp.swift */; };
+		BB94BF7C28EE639C00CA93B3 /* MatchedGeometryEffectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB94BF7B28EE639C00CA93B3 /* MatchedGeometryEffectBootcamp.swift */; };
+		BB94BF7E28EF720E00CA93B3 /* CustomShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB94BF7D28EF720E00CA93B3 /* CustomShapesBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		BB94BF6428EE053600CA93B3 /* SwiftfulThinkingAdvancedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingAdvancedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB94BF6728EE053600CA93B3 /* SwiftfulThinkingAdvancedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingAdvancedLearningApp.swift; sourceTree = "<group>"; };
-		BB94BF6928EE053600CA93B3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BB94BF6B28EE053800CA93B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BB94BF6E28EE053800CA93B3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BB94BF7528EE056500CA93B3 /* ViewModifierBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierBootcamp.swift; sourceTree = "<group>"; };
+		BB94BF7728EE10E100CA93B3 /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
+		BB94BF7928EE16AD00CA93B3 /* AnyTransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionBootcamp.swift; sourceTree = "<group>"; };
+		BB94BF7B28EE639C00CA93B3 /* MatchedGeometryEffectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchedGeometryEffectBootcamp.swift; sourceTree = "<group>"; };
+		BB94BF7D28EF720E00CA93B3 /* CustomShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShapesBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +59,12 @@
 		BB94BF6628EE053600CA93B3 /* SwiftfulThinkingAdvancedLearning */ = {
 			isa = PBXGroup;
 			children = (
+				BB94BF7928EE16AD00CA93B3 /* AnyTransitionBootcamp.swift */,
+				BB94BF7728EE10E100CA93B3 /* ButtonStyleBootcamp.swift */,
+				BB94BF7D28EF720E00CA93B3 /* CustomShapesBootcamp.swift */,
+				BB94BF7B28EE639C00CA93B3 /* MatchedGeometryEffectBootcamp.swift */,
 				BB94BF6728EE053600CA93B3 /* SwiftfulThinkingAdvancedLearningApp.swift */,
-				BB94BF6928EE053600CA93B3 /* ContentView.swift */,
+				BB94BF7528EE056500CA93B3 /* ViewModifierBootcamp.swift */,
 				BB94BF6B28EE053800CA93B3 /* Assets.xcassets */,
 				BB94BF6D28EE053800CA93B3 /* Preview Content */,
 			);
@@ -137,8 +149,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BB94BF6A28EE053600CA93B3 /* ContentView.swift in Sources */,
+				BB94BF7828EE10E100CA93B3 /* ButtonStyleBootcamp.swift in Sources */,
+				BB94BF7628EE056500CA93B3 /* ViewModifierBootcamp.swift in Sources */,
+				BB94BF7A28EE16AD00CA93B3 /* AnyTransitionBootcamp.swift in Sources */,
 				BB94BF6828EE053600CA93B3 /* SwiftfulThinkingAdvancedLearningApp.swift in Sources */,
+				BB94BF7C28EE639C00CA93B3 /* MatchedGeometryEffectBootcamp.swift in Sources */,
+				BB94BF7E28EF720E00CA93B3 /* CustomShapesBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
